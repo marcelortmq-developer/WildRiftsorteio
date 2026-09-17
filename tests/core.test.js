@@ -1,0 +1,11 @@
+import {test} from 'node:test';
+import assert from 'node:assert/strict';
+import {readFileSync} from 'node:fs';
+import {validate,poolFor,searchChampions,randomChampion} from '../dist/core.js';
+const data=validate(JSON.parse(readFileSync(new URL('../dist/campeoes_wild_rift_141.json',import.meta.url))));
+test('141 únicos e totais do escopo',()=>{assert.equal(poolFor(data,'Todos').length,141);for(const [r,n] of Object.entries({TOP:47,JUNGLE:55,MID:53,ADC:23,SUPPORT:41}))assert.equal(poolFor(data,r).length,n);});
+test('Todo campeão flex pertence a todos seus pools, uma vez',()=>{for(const c of data)for(const r of c.rotas)assert.equal(poolFor(data,r).filter(x=>x.nome===c.nome).length,1);});
+test('Sorteio alcança todos os campeões de cada pool',()=>{for(const r of ['Todos','TOP','JUNGLE','MID','ADC','SUPPORT']){const p=poolFor(data,r);for(let i=0;i<p.length;i++)assert.equal(randomChampion(p,{getRandomValues:a=>{a[0]=i;}}),p[i]);}});
+test('Rejeita valores que causariam viés no módulo',()=>{let n=0;assert.equal(randomChampion(data,{getRandomValues:a=>{a[0]=n++===0?4294967295:0;}}),data[0]);assert.equal(n,2);});
+test('Pesquisa ignora acentos e pontuação e combina a rota',()=>{assert.equal(searchChampions(data,'Todos','ksante')[0].nome,"K'Santé");assert.equal(searchChampions(data,'MID','malphite').length,1);assert.equal(searchChampions(data,'ADC','malphite').length,0);assert.equal(searchChampions(data,'Todos','inexistente').length,0);});
+test('Não aceita duplicação de campeão',()=>{const bad=[...data];bad[1]=bad[0];assert.throws(()=>validate(bad));});

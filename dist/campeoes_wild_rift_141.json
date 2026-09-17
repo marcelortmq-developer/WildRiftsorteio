@@ -1,0 +1,1067 @@
+[
+  {
+    "nome": "Aatrox",
+    "rotas": [
+      "TOP",
+      "JUNGLE"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/aatrox/"
+  },
+  {
+    "nome": "Ahri",
+    "rotas": [
+      "MID"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/ahri/"
+  },
+  {
+    "nome": "Akali",
+    "rotas": [
+      "TOP",
+      "MID"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/akali/"
+  },
+  {
+    "nome": "Akshan",
+    "rotas": [
+      "MID",
+      "ADC"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/akshan/"
+  },
+  {
+    "nome": "Alistar",
+    "rotas": [
+      "SUPPORT"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/alistar/"
+  },
+  {
+    "nome": "Ambessa",
+    "rotas": [
+      "TOP",
+      "JUNGLE"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/ambessa/"
+  },
+  {
+    "nome": "Amumu",
+    "rotas": [
+      "JUNGLE"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/amumu/"
+  },
+  {
+    "nome": "Annie",
+    "rotas": [
+      "MID",
+      "SUPPORT"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/annie/"
+  },
+  {
+    "nome": "Ashe",
+    "rotas": [
+      "ADC"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/ashe/"
+  },
+  {
+    "nome": "Aurelion Sol",
+    "rotas": [
+      "MID"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/aurelion-sol/"
+  },
+  {
+    "nome": "Aurora",
+    "rotas": [
+      "MID"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/aurora/"
+  },
+  {
+    "nome": "Bard",
+    "rotas": [
+      "SUPPORT"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/bard/"
+  },
+  {
+    "nome": "Blitzcrank",
+    "rotas": [
+      "SUPPORT"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/blitzcrank/"
+  },
+  {
+    "nome": "Brand",
+    "rotas": [
+      "MID",
+      "SUPPORT"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/brand/"
+  },
+  {
+    "nome": "Braum",
+    "rotas": [
+      "SUPPORT"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/braum/"
+  },
+  {
+    "nome": "Caitlyn",
+    "rotas": [
+      "ADC"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/caitlyn/"
+  },
+  {
+    "nome": "Camille",
+    "rotas": [
+      "TOP",
+      "JUNGLE"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/camille/"
+  },
+  {
+    "nome": "Cho'Gath",
+    "rotas": [
+      "TOP",
+      "JUNGLE",
+      "MID",
+      "SUPPORT"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/cho-gath/"
+  },
+  {
+    "nome": "Corki",
+    "rotas": [
+      "MID",
+      "ADC"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/corki/"
+  },
+  {
+    "nome": "Darius",
+    "rotas": [
+      "TOP",
+      "JUNGLE"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/darius/"
+  },
+  {
+    "nome": "Diana",
+    "rotas": [
+      "JUNGLE",
+      "MID"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/diana/"
+  },
+  {
+    "nome": "Dr. Mundo",
+    "rotas": [
+      "TOP",
+      "JUNGLE"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/dr-mundo/"
+  },
+  {
+    "nome": "Draven",
+    "rotas": [
+      "ADC"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/draven/"
+  },
+  {
+    "nome": "Ekko",
+    "rotas": [
+      "JUNGLE",
+      "MID"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/ekko/"
+  },
+  {
+    "nome": "Evelynn",
+    "rotas": [
+      "JUNGLE"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/evelynn/"
+  },
+  {
+    "nome": "Ezreal",
+    "rotas": [
+      "ADC"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/ezreal/"
+  },
+  {
+    "nome": "Fiddlesticks",
+    "rotas": [
+      "JUNGLE",
+      "SUPPORT"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/fiddlesticks/"
+  },
+  {
+    "nome": "Fiora",
+    "rotas": [
+      "TOP"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/fiora/"
+  },
+  {
+    "nome": "Fizz",
+    "rotas": [
+      "JUNGLE",
+      "MID"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/fizz/"
+  },
+  {
+    "nome": "Galio",
+    "rotas": [
+      "MID",
+      "SUPPORT"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/galio/"
+  },
+  {
+    "nome": "Garen",
+    "rotas": [
+      "TOP"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/garen/"
+  },
+  {
+    "nome": "Gnar",
+    "rotas": [
+      "TOP"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/gnar/"
+  },
+  {
+    "nome": "Gragas",
+    "rotas": [
+      "TOP",
+      "JUNGLE"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/gragas/"
+  },
+  {
+    "nome": "Graves",
+    "rotas": [
+      "JUNGLE"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/graves/"
+  },
+  {
+    "nome": "Gwen",
+    "rotas": [
+      "TOP",
+      "JUNGLE"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/gwen/"
+  },
+  {
+    "nome": "Hecarim",
+    "rotas": [
+      "JUNGLE"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/hecarim/"
+  },
+  {
+    "nome": "Heimerdinger",
+    "rotas": [
+      "MID"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/heimerdinger/"
+  },
+  {
+    "nome": "Irelia",
+    "rotas": [
+      "TOP",
+      "MID"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/irelia/"
+  },
+  {
+    "nome": "Janna",
+    "rotas": [
+      "SUPPORT"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/janna/"
+  },
+  {
+    "nome": "Jarvan IV",
+    "rotas": [
+      "JUNGLE"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/jarvan-iv/"
+  },
+  {
+    "nome": "Jax",
+    "rotas": [
+      "TOP",
+      "JUNGLE"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/jax/"
+  },
+  {
+    "nome": "Jayce",
+    "rotas": [
+      "TOP",
+      "MID"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/jayce/"
+  },
+  {
+    "nome": "Jhin",
+    "rotas": [
+      "ADC"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/jhin/"
+  },
+  {
+    "nome": "Jinx",
+    "rotas": [
+      "ADC"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/jinx/"
+  },
+  {
+    "nome": "K'Santé",
+    "rotas": [
+      "TOP"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/k-sante/"
+  },
+  {
+    "nome": "Kai'Sa",
+    "rotas": [
+      "ADC"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/kaisa/"
+  },
+  {
+    "nome": "Kalista",
+    "rotas": [
+      "TOP",
+      "ADC"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/kalista/"
+  },
+  {
+    "nome": "Karma",
+    "rotas": [
+      "MID",
+      "SUPPORT"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/karma/"
+  },
+  {
+    "nome": "Kassadin",
+    "rotas": [
+      "MID"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/kassadin/"
+  },
+  {
+    "nome": "Katarina",
+    "rotas": [
+      "MID"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/katarina/"
+  },
+  {
+    "nome": "Kayle",
+    "rotas": [
+      "TOP",
+      "MID"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/kayle/"
+  },
+  {
+    "nome": "Kayn",
+    "rotas": [
+      "JUNGLE"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/kayn/"
+  },
+  {
+    "nome": "Kennen",
+    "rotas": [
+      "TOP",
+      "MID"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/kennen/"
+  },
+  {
+    "nome": "Kha'Zix",
+    "rotas": [
+      "JUNGLE"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/kha-zix/"
+  },
+  {
+    "nome": "Kindred",
+    "rotas": [
+      "JUNGLE"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/kindred/"
+  },
+  {
+    "nome": "Kog'Maw",
+    "rotas": [
+      "MID",
+      "ADC"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/kog-maw/"
+  },
+  {
+    "nome": "Lee Sin",
+    "rotas": [
+      "JUNGLE"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/lee-sin/"
+  },
+  {
+    "nome": "Leona",
+    "rotas": [
+      "SUPPORT"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/leona/"
+  },
+  {
+    "nome": "Lillia",
+    "rotas": [
+      "JUNGLE"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/lillia/"
+  },
+  {
+    "nome": "Lissandra",
+    "rotas": [
+      "MID"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/lissandra/"
+  },
+  {
+    "nome": "Lucian",
+    "rotas": [
+      "ADC"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/lucian/"
+  },
+  {
+    "nome": "Lulu",
+    "rotas": [
+      "SUPPORT"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/lulu/"
+  },
+  {
+    "nome": "Lux",
+    "rotas": [
+      "MID",
+      "SUPPORT"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/lux/"
+  },
+  {
+    "nome": "Malphite",
+    "rotas": [
+      "TOP",
+      "MID",
+      "SUPPORT"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/malphite/"
+  },
+  {
+    "nome": "Maokai",
+    "rotas": [
+      "SUPPORT"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/maokai/"
+  },
+  {
+    "nome": "Master Yi",
+    "rotas": [
+      "JUNGLE"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/master-yi/"
+  },
+  {
+    "nome": "Mel",
+    "rotas": [
+      "MID"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/mel/"
+  },
+  {
+    "nome": "Milio",
+    "rotas": [
+      "SUPPORT"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/milio/"
+  },
+  {
+    "nome": "Miss Fortune",
+    "rotas": [
+      "ADC"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/miss-fortune/"
+  },
+  {
+    "nome": "Mordekaiser",
+    "rotas": [
+      "TOP",
+      "JUNGLE",
+      "SUPPORT"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/mordekaiser/"
+  },
+  {
+    "nome": "Morgana",
+    "rotas": [
+      "JUNGLE",
+      "MID",
+      "SUPPORT"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/morgana/"
+  },
+  {
+    "nome": "Nami",
+    "rotas": [
+      "SUPPORT"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/nami/"
+  },
+  {
+    "nome": "Nasus",
+    "rotas": [
+      "TOP",
+      "JUNGLE",
+      "MID"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/nasus/"
+  },
+  {
+    "nome": "Nautilus",
+    "rotas": [
+      "TOP",
+      "JUNGLE",
+      "SUPPORT"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/nautilus/"
+  },
+  {
+    "nome": "Nidalee",
+    "rotas": [
+      "JUNGLE"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/nidalee/"
+  },
+  {
+    "nome": "Nilah",
+    "rotas": [
+      "JUNGLE"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/nilah/"
+  },
+  {
+    "nome": "Nocturne",
+    "rotas": [
+      "JUNGLE"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/nocturne/"
+  },
+  {
+    "nome": "Norra",
+    "rotas": [
+      "MID"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/norra/"
+  },
+  {
+    "nome": "Nunu & Willump",
+    "rotas": [
+      "JUNGLE",
+      "SUPPORT"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/nunu-willump/"
+  },
+  {
+    "nome": "Olaf",
+    "rotas": [
+      "TOP",
+      "JUNGLE"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/olaf/"
+  },
+  {
+    "nome": "Orianna",
+    "rotas": [
+      "MID",
+      "SUPPORT"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/orianna/"
+  },
+  {
+    "nome": "Ornn",
+    "rotas": [
+      "TOP",
+      "SUPPORT"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/ornn/"
+  },
+  {
+    "nome": "Pantheon",
+    "rotas": [
+      "TOP",
+      "JUNGLE",
+      "MID"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/pantheon/"
+  },
+  {
+    "nome": "Poppy",
+    "rotas": [
+      "TOP",
+      "JUNGLE",
+      "SUPPORT"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/poppy/"
+  },
+  {
+    "nome": "Pyke",
+    "rotas": [
+      "MID",
+      "SUPPORT"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/pyke/"
+  },
+  {
+    "nome": "Rakan",
+    "rotas": [
+      "SUPPORT"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/rakan/"
+  },
+  {
+    "nome": "Rammus",
+    "rotas": [
+      "JUNGLE"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/rammus/"
+  },
+  {
+    "nome": "Rell",
+    "rotas": [
+      "SUPPORT"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/rell/"
+  },
+  {
+    "nome": "Renekton",
+    "rotas": [
+      "TOP",
+      "JUNGLE"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/renekton/"
+  },
+  {
+    "nome": "Rengar",
+    "rotas": [
+      "JUNGLE"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/rengar/"
+  },
+  {
+    "nome": "Riven",
+    "rotas": [
+      "TOP",
+      "JUNGLE"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/riven/"
+  },
+  {
+    "nome": "Rumble",
+    "rotas": [
+      "TOP",
+      "MID"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/rumble/"
+  },
+  {
+    "nome": "Ryze",
+    "rotas": [
+      "TOP",
+      "MID"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/ryze/"
+  },
+  {
+    "nome": "Samira",
+    "rotas": [
+      "ADC"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/samira/"
+  },
+  {
+    "nome": "Senna",
+    "rotas": [
+      "SUPPORT"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/senna/"
+  },
+  {
+    "nome": "Seraphine",
+    "rotas": [
+      "MID",
+      "SUPPORT"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/seraphine/"
+  },
+  {
+    "nome": "Sett",
+    "rotas": [
+      "TOP",
+      "JUNGLE",
+      "SUPPORT"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/sett/"
+  },
+  {
+    "nome": "Shen",
+    "rotas": [
+      "TOP"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/shen/"
+  },
+  {
+    "nome": "Shyvana",
+    "rotas": [
+      "JUNGLE"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/shyvana/"
+  },
+  {
+    "nome": "Singed",
+    "rotas": [
+      "TOP"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/singed/"
+  },
+  {
+    "nome": "Sion",
+    "rotas": [
+      "TOP",
+      "JUNGLE"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/sion/"
+  },
+  {
+    "nome": "Sivir",
+    "rotas": [
+      "ADC"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/sivir/"
+  },
+  {
+    "nome": "Skarner",
+    "rotas": [
+      "TOP",
+      "JUNGLE",
+      "SUPPORT"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/skarner/"
+  },
+  {
+    "nome": "Smolder",
+    "rotas": [
+      "TOP",
+      "ADC"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/smolder/"
+  },
+  {
+    "nome": "Sona",
+    "rotas": [
+      "SUPPORT"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/sona/"
+  },
+  {
+    "nome": "Soraka",
+    "rotas": [
+      "SUPPORT"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/soraka/"
+  },
+  {
+    "nome": "Swain",
+    "rotas": [
+      "MID",
+      "SUPPORT"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/swain/"
+  },
+  {
+    "nome": "Syndra",
+    "rotas": [
+      "MID"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/syndra/"
+  },
+  {
+    "nome": "Taliyah",
+    "rotas": [
+      "JUNGLE",
+      "MID"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/taliyah/"
+  },
+  {
+    "nome": "Talon",
+    "rotas": [
+      "JUNGLE",
+      "MID"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/talon/"
+  },
+  {
+    "nome": "Teemo",
+    "rotas": [
+      "TOP",
+      "MID"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/teemo/"
+  },
+  {
+    "nome": "Thresh",
+    "rotas": [
+      "SUPPORT"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/thresh/"
+  },
+  {
+    "nome": "Tristana",
+    "rotas": [
+      "ADC"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/tristana/"
+  },
+  {
+    "nome": "Tryndamere",
+    "rotas": [
+      "TOP",
+      "JUNGLE"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/tryndamere/"
+  },
+  {
+    "nome": "Twisted Fate",
+    "rotas": [
+      "MID"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/twisted-fate/"
+  },
+  {
+    "nome": "Twitch",
+    "rotas": [
+      "JUNGLE",
+      "ADC"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/twitch/"
+  },
+  {
+    "nome": "Urgot",
+    "rotas": [
+      "TOP"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/urgot/"
+  },
+  {
+    "nome": "Varus",
+    "rotas": [
+      "ADC"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/varus/"
+  },
+  {
+    "nome": "Vayne",
+    "rotas": [
+      "TOP",
+      "ADC"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/vayne/"
+  },
+  {
+    "nome": "Veigar",
+    "rotas": [
+      "MID",
+      "SUPPORT"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/veigar/"
+  },
+  {
+    "nome": "Vel'Koz",
+    "rotas": [
+      "MID",
+      "SUPPORT"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/vel-koz/"
+  },
+  {
+    "nome": "Vex",
+    "rotas": [
+      "MID"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/vex/"
+  },
+  {
+    "nome": "Vi",
+    "rotas": [
+      "TOP",
+      "JUNGLE"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/vi/"
+  },
+  {
+    "nome": "Viego",
+    "rotas": [
+      "JUNGLE"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/viego/"
+  },
+  {
+    "nome": "Viktor",
+    "rotas": [
+      "MID"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/viktor/"
+  },
+  {
+    "nome": "Vladimir",
+    "rotas": [
+      "TOP",
+      "MID"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/vladimir/"
+  },
+  {
+    "nome": "Volibear",
+    "rotas": [
+      "TOP",
+      "JUNGLE"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/volibear/"
+  },
+  {
+    "nome": "Warwick",
+    "rotas": [
+      "JUNGLE"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/warwick/"
+  },
+  {
+    "nome": "Wukong",
+    "rotas": [
+      "TOP",
+      "JUNGLE"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/wukong/"
+  },
+  {
+    "nome": "Xayah",
+    "rotas": [
+      "ADC"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/xayah/"
+  },
+  {
+    "nome": "Xin Zhao",
+    "rotas": [
+      "JUNGLE"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/xin-zhao/"
+  },
+  {
+    "nome": "Yasuo",
+    "rotas": [
+      "TOP",
+      "MID"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/yasuo/"
+  },
+  {
+    "nome": "Yone",
+    "rotas": [
+      "TOP",
+      "JUNGLE",
+      "MID"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/yone/"
+  },
+  {
+    "nome": "Yunara",
+    "rotas": [
+      "ADC"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/yunara/"
+  },
+  {
+    "nome": "Yuumi",
+    "rotas": [
+      "SUPPORT"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/yuumi/"
+  },
+  {
+    "nome": "Zed",
+    "rotas": [
+      "JUNGLE",
+      "MID"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/zed/"
+  },
+  {
+    "nome": "Zeri",
+    "rotas": [
+      "ADC"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/zeri/"
+  },
+  {
+    "nome": "Ziggs",
+    "rotas": [
+      "MID"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/ziggs/"
+  },
+  {
+    "nome": "Zilean",
+    "rotas": [
+      "MID",
+      "SUPPORT"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/zilean/"
+  },
+  {
+    "nome": "Zoe",
+    "rotas": [
+      "MID"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/zoe/"
+  },
+  {
+    "nome": "Zyra",
+    "rotas": [
+      "MID",
+      "SUPPORT"
+    ],
+    "link": "https://wildriftcore.com/pt-br/champions/zyra/"
+  }
+]
