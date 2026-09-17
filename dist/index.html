@@ -1,7 +1,27 @@
 <!doctype html>
 <html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#0c1118"><meta name="description" content="Sorteie seu próximo campeão do Wild Rift entre 141 opções ou por rota. Explore o catálogo e acesse builds e counters."><title>Sorteio WR • Seu próximo campeão</title><link rel="stylesheet" href="style.css"><script type="module" src="app.js"></script></head>
-<body><header><a class="brand" href="#"><span class="brand-icon">W</span> SORTEIO <b>WR</b></a><nav aria-label="Navegação principal"><a href="#sorteio">Sorteio</a><a href="#campeoes">Campeões <span>141</span></a></nav><span class="edition">WILD RIFT</span></header>
+<body><header><a class="brand" href="#"><span class="brand-icon">W</span> SORTEIO <b>WR</b></a><nav aria-label="Navegação principal"><a href="#sorteio">Sorteio</a><a href="#campeoes">Campeões <span>141</span></a></nav><div class="admin-tools"><span id="admin-badge" hidden>Administrador</span><button id="admin-button" class="admin-button" type="button">Administrar</button></div></header>
 <main><section id="sorteio"><div class="section-title"><div><p class="eyebrow">ESCOLHA A ROTA. DEIXE O RESTO COM A SORTE.</p><h1>Seu próximo <em>campeão.</em></h1></div><span class="total-label">141 possibilidades de jogo</span></div>
 <div class="arena"><div class="controls"><span class="step">01 / SUA ROTA</span><h2>Onde vamos jogar?</h2><p class="muted">Sorteie entre todos ou escolha uma rota.</p><div id="draw-routes" class="route-grid" aria-label="Rota do sorteio"></div><div class="pool-info"><span>Campeões disponíveis</span><strong id="pool-count">—</strong></div><button id="draw" class="primary" disabled><span>⇄</span> Sortear campeão</button><p class="fine">Cada campeão tem a mesma chance no sorteio.</p></div>
 <div id="result" class="result" aria-live="polite" aria-atomic="true"><div class="empty-result"><div class="rune">?</div><p class="eyebrow">O RIFT ESTÁ ESPERANDO</p><h2>Quem vai para o Rift?</h2><p>Escolha uma rota e descubra seu próximo campeão.</p></div></div></div><p id="status" role="status"></p></section>
-<section id="campeoes" class="catalog"><div class="catalog-title"><div><p class="eyebrow">EXPLORE AS POSSIBILIDADES</p><h2>Todos os campeões <span id="list-count">141</span></h2></div><p class="muted">Encontre seu campeão. Confira builds e counters.</p></div><div class="filterbar"><label class="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Pesquisar campeão..." aria-label="Pesquisar campeão por nome"></label><div id="list-routes" class="list-routes" aria-label="Filtrar catálogo por rota"></div></div><div id="champions" class="champions"><p class="muted">Carregando campeões…</p></div></section></main><footer><span class="brand">SORTEIO <b>WR</b></span><span>Feito para a sua próxima partida.</span><span>Projeto independente · Wild Rift</span></footer></body></html>
+<section id="campeoes" class="catalog"><div class="catalog-title"><div><p class="eyebrow">EXPLORE AS POSSIBILIDADES</p><h2>Todos os campeões <span id="list-count">141</span></h2></div><p class="muted">Abra a ficha para ver rotas, imagens e builds.</p></div><div class="filterbar"><label class="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Pesquisar campeão..." aria-label="Pesquisar campeão por nome"></label><div id="list-routes" class="list-routes" aria-label="Filtrar catálogo por rota"></div></div><div id="champions" class="champions"><p class="muted">Carregando campeões…</p></div></section></main><footer><span class="brand">SORTEIO <b>WR</b></span><span>Feito para a sua próxima partida.</span><span>Projeto independente · Wild Rift</span></footer>
+<dialog id="champion-dialog" aria-labelledby="detail-title">
+ <div class="dialog-heading"><p class="eyebrow">FICHA DO CAMPEÃO</p><button type="button" id="close-detail" class="close-button" aria-label="Fechar ficha">×</button></div>
+ <h2 id="detail-title"></h2>
+ <form id="edit-form"><div class="detail-layout"><div><div id="detail-preview"></div><div id="detail-link"></div></div>
+ <div class="detail-controls"><p id="edit-help" class="muted"></p><fieldset id="editor-fields"><legend class="sr-only">Editar campeão</legend>
+ <fieldset class="routes-fieldset"><legend>Rotas do campeão</legend><div id="edit-routes"></div></fieldset>
+ <label class="upload-label" for="image-file">Imagem do campeão</label><input id="image-file" type="file" accept="image/jpeg,image/png,image/webp" aria-describedby="image-help">
+ <p id="image-help" class="muted">JPG, PNG ou WebP, até 5 MB. Escolha uma imagem para visualizar antes de salvar.</p>
+ <button id="remove-image" class="secondary" type="button">Remover imagem</button></fieldset>
+ <p id="edit-status" role="status" aria-live="polite"></p>
+ <button id="save-champion" type="submit" class="primary" hidden>Salvar alterações</button>
+ <button id="detail-login" type="button" class="secondary">Entrar para editar</button>
+ </div></div></form>
+</dialog>
+<dialog id="login-dialog" aria-labelledby="login-title">
+ <div class="dialog-heading"><p class="eyebrow">ACESSO RESTRITO</p><button id="close-login" class="close-button" type="button" aria-label="Fechar login">×</button></div>
+ <h2 id="login-title">Administração</h2><p class="muted">Entre para atualizar as rotas e imagens dos campeões.</p>
+ <form id="login-form"><fieldset id="login-fields"><legend class="sr-only">Dados de acesso</legend><label for="admin-email">E-mail</label><input id="admin-email" type="email" autocomplete="username" required><label for="admin-password">Senha</label><input id="admin-password" type="password" autocomplete="current-password" required><button class="primary" type="submit">Entrar</button></fieldset><p id="login-status" role="status"></p></form>
+</dialog>
+</body></html>

@@ -1,0 +1,12 @@
+import {test} from 'node:test';
+import assert from 'node:assert/strict';
+import {readFileSync} from 'node:fs';
+import {mergeOverrides,championId,validRoutes,validateImageFile,persistEdit} from '../dist/shared-core.js';
+import {poolFor} from '../dist/core.js';
+const base=JSON.parse(readFileSync(new URL('../dist/campeoes_wild_rift_141.json',import.meta.url)));
+test('Alterações compartilhadas mudam todos os pools sem duplicar campeões',()=>{const merged=mergeOverrides(base,[{champion_id:'aatrox',rotas:['MID','SUPPORT'],image_path:'aatrox/12345678-1234-1234-1234-123456789012.webp',version:2}],p=>'https://example.test/'+p);assert.equal(merged.length,141);const a=merged.find(c=>championId(c)==='aatrox');assert.deepEqual(a.rotas,['MID','SUPPORT']);assert.equal(a.version,2);assert.ok(a.imagem.startsWith('https://'));assert.ok(!poolFor(merged,'TOP').includes(a));assert.ok(poolFor(merged,'SUPPORT').includes(a));assert.equal(base[0].rotas[0],'TOP');});
+test('Recusa rotas vazias, repetidas e desconhecidas',()=>{for(const r of [[],['TOP','TOP'],['ARAM'],[null]])assert.equal(validRoutes(r),false);assert.ok(validRoutes(['MID','ADC']));});
+test('Uploads recusam SVG, arquivos vazios e imagens acima de 5 MB',()=>{for(const f of [{type:'image/svg+xml',size:20},{type:'image/png',size:0},{type:'image/jpeg',size:5242881}])assert.throws(()=>validateImageFile(f));validateImageFile({type:'image/webp',size:100});});
+test('Imagens removidas ficam vazias e caminhos externos são recusados',()=>{assert.equal(mergeOverrides(base,[{champion_id:'aatrox',rotas:['TOP'],image_path:'',version:1}],()=> 'x')[0].imagem,'');assert.throws(()=>mergeOverrides(base,[{champion_id:'aatrox',rotas:['TOP'],image_path:'https://evil.test/a.webp',version:1}],()=>''));});
+test('Não afirma sucesso se versão foi alterada por outra sessão',async()=>{const q={update(){return this;},eq(){return this;},select(){return this;},async maybeSingle(){return {data:null,error:null};}};await assert.rejects(persistEdit({from:()=>q},{id:'aatrox',rotas:['TOP'],imagePath:null,version:1}),/outra sessão/);});
+test('Recusa conflito na criação e falha de autorização',async()=>{for(const code of ['23505','42501']){const q={insert(){return this;},select(){return this;},async maybeSingle(){return {data:null,error:{code}};}};await assert.rejects(persistEdit({from:()=>q},{id:'aatrox',rotas:['TOP'],imagePath:null,version:0}));}});
