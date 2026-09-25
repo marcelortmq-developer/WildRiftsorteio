@@ -37,3 +37,9 @@ $('#admin-button').onclick=async()=>{if(!admin){openLogin();return;}try{await si
 $('#login-form').onsubmit=async event=>{event.preventDefault();$('#login-fields').disabled=true;$('#login-status').textContent='Entrando…';try{await signIn($('#admin-email').value,$('#admin-password').value);admin=true;updatePermissions();$('#login-dialog').close();$('#admin-password').value='';await sync();}catch(error){$('#login-status').textContent=error.message;$('#admin-password').value='';}finally{$('#login-fields').disabled=false;}};
 async function refreshAuth(){try{admin=await isAdmin();}catch{admin=false;}updatePermissions();}
 load();if(configured){refreshAuth();watchAuth(refreshAuth).catch(()=>{});setInterval(()=>{if(!document.hidden)sync();},30000);document.addEventListener('visibilitychange',()=>{if(!document.hidden){sync();refreshAuth();}});window.addEventListener('online',sync);}updatePermissions();
+
+// A navegação abre o catálogo; a aba permite recolhê-lo novamente.
+function revealChampionCatalog(){if(location.hash==='#campeoes')document.querySelector('#champion-catalog').open=true;}
+document.querySelector('nav a[href="#campeoes"]').addEventListener('click',()=>{document.querySelector('#champion-catalog').open=true;});
+window.addEventListener('hashchange',revealChampionCatalog);
+revealChampionCatalog();
