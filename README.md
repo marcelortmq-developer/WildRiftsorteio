@@ -71,7 +71,7 @@ Se uma gravação perder a resposta da rede, confirme o estado reabrindo a ficha
 
 ## Sorteio de Build
 
-A área **Sorteio de Build** lê o catálogo compartilhado `wr_items` no Supabase. Cada sorteio gera cinco IDs distintos de itens e uma opção da categoria Botas. Todos usa a união dos pools, sem ponderar itens com várias categorias. Qualquer bota (inclusive a Bota da Velocidade, listada pela fonte em Tier Base) fica fora dos cinco itens. Sorteio livre, sem restrições adicionais de receitas/passivas.
+A área **Sorteio de Build** lê o catálogo compartilhado `wr_items` no Supabase. Cada sorteio gera cinco IDs distintos de itens e uma opção da categoria Botas. Todos usa a união dos pools, sem ponderar itens com várias categorias. Qualquer bota (inclusive a Bota da Velocidade, listada pela fonte em Tier Base) fica fora dos cinco itens. Tier Médio e Tier Base permanecem no catálogo, mas não participam de nenhum pool de sorteio, mesmo quando possuem outra categoria.
 
 Fonte: https://wildlegends.net/itens. Em 25/09/2026 foram extraídos automaticamente 179 itens visíveis e 14 opções na categoria Botas. Os 11 registros internos do site que não aparecem nas categorias da página não são importados. Físico reúne Lutador, Assassino e Atirador; os rótulos originais também são preservados. Preços ausentes ficam nulos. Descrições são armazenadas como texto, nunca HTML executável.
 
@@ -85,4 +85,4 @@ Fonte: https://wildlegends.net/itens. Em 25/09/2026 foram extraídos automaticam
 - `--html arquivo.html` permite reproduzir uma extração; `--report arquivo.json` salva o relatório de uma sincronização concluída (sem credenciais).
 - Alterações incompatíveis na estrutura da fonte interrompem o importador para revisão. Não há agendamento automático.
 
-Testes: `npm test` inclui 2.100 sorteios cobrindo Todos e as seis categorias, exclusão de botas dos cinco slots, deduplicação, pesquisa e restrições RLS. `npm run build` mantém o fluxo de publicação existente.
+Testes: `npm test` inclui 1.500 sorteios cobrindo Todos e as quatro categorias, exclusão de botas dos cinco slots, deduplicação, pesquisa e restrições RLS. `npm run build` mantém o fluxo de publicação existente.
