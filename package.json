@@ -6,13 +6,15 @@
   "scripts": {
     "start": "python3 -m http.server 3000 --directory dist",
     "test": "node --test tests/*.test.js",
-    "build": "node scripts/build.mjs"
+    "build": "node scripts/build.mjs",
+    "sync:items": "node scripts/sync-items.mjs"
   },
   "dependencies": {
     "@supabase/supabase-js": "2.116.0"
   },
   "devDependencies": {
     "@electric-sql/pglite": "0.3.14",
+    "cheerio": "1.1.2",
     "esbuild": "0.28.2"
   }
 }

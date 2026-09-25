@@ -1,0 +1,1877 @@
+[
+  {
+    "id": "127122",
+    "name": "Hexótica C44",
+    "categories": [
+      "Atirador",
+      "Físico"
+    ],
+    "is_boot": false,
+    "price": 2900,
+    "image_path": "127122/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127121",
+    "name": "Ecos de Helia",
+    "categories": [
+      "Suporte"
+    ],
+    "is_boot": false,
+    "price": 2400,
+    "image_path": "127121/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127119",
+    "name": "Tiara Sussurrante",
+    "categories": [
+      "Mágico",
+      "Suporte"
+    ],
+    "is_boot": false,
+    "price": 2400,
+    "image_path": "127119/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127118",
+    "name": "Flechatroz de Yun Tal",
+    "categories": [
+      "Atirador",
+      "Físico"
+    ],
+    "is_boot": false,
+    "price": 3100,
+    "image_path": "127118/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127117",
+    "name": "Faca de Statikk",
+    "categories": [
+      "Atirador",
+      "Mágico",
+      "Físico"
+    ],
+    "is_boot": false,
+    "price": 3000,
+    "image_path": "127117/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127116",
+    "name": "Dardos de Caça-Demônios",
+    "categories": [
+      "Atirador",
+      "Físico"
+    ],
+    "is_boot": false,
+    "price": 2650,
+    "image_path": "127116/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127115",
+    "name": "Espelho de Bandópolis",
+    "categories": [
+      "Tier Médio"
+    ],
+    "is_boot": false,
+    "price": 900,
+    "image_path": "127115/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127114",
+    "name": "Machado Termestre",
+    "categories": [
+      "Tier Médio"
+    ],
+    "is_boot": false,
+    "price": 1200,
+    "image_path": "127114/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127113",
+    "name": "Picareta",
+    "categories": [
+      "Tier Médio"
+    ],
+    "is_boot": false,
+    "price": 800,
+    "image_path": "127113/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127112",
+    "name": "Barreira Verdejante",
+    "categories": [
+      "Tier Médio"
+    ],
+    "is_boot": false,
+    "price": 1000,
+    "image_path": "127112/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127111",
+    "name": "Cinzas do Destino",
+    "categories": [
+      "Tier Médio"
+    ],
+    "is_boot": false,
+    "price": 900,
+    "image_path": "127111/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127110",
+    "name": "Ametista do Vazio",
+    "categories": [
+      "Tier Médio"
+    ],
+    "is_boot": false,
+    "price": 1000,
+    "image_path": "127110/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127109",
+    "name": "Foice da Névoa Negra",
+    "categories": [
+      "Suporte"
+    ],
+    "is_boot": false,
+    "price": 0,
+    "image_path": "127109/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127108",
+    "name": "Bastião da Montanha",
+    "categories": [
+      "Suporte"
+    ],
+    "is_boot": false,
+    "price": 0,
+    "image_path": "127108/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127107",
+    "name": "Bênção de Mikael",
+    "categories": [
+      "Suporte"
+    ],
+    "is_boot": false,
+    "price": 2500,
+    "image_path": "127107/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127106",
+    "name": "Placa Gargolítica",
+    "categories": [
+      "Defesa"
+    ],
+    "is_boot": false,
+    "price": 2900,
+    "image_path": "127106/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127104",
+    "name": "Botas Esmaga-armaduras",
+    "categories": [
+      "Botas"
+    ],
+    "is_boot": true,
+    "price": 2200,
+    "image_path": "127104/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127103",
+    "name": "Sapatos Enfeitiçados",
+    "categories": [
+      "Botas"
+    ],
+    "is_boot": true,
+    "price": 2200,
+    "image_path": "127103/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127102",
+    "name": "Lucidez Escarlate",
+    "categories": [
+      "Botas"
+    ],
+    "is_boot": true,
+    "price": 2000,
+    "image_path": "127102/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127101",
+    "name": "Mobilização Blindada",
+    "categories": [
+      "Botas"
+    ],
+    "is_boot": true,
+    "price": 2200,
+    "image_path": "127101/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127100",
+    "name": "Esmagadores Acorrentados",
+    "categories": [
+      "Botas"
+    ],
+    "is_boot": true,
+    "price": 2200,
+    "image_path": "127100/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127099",
+    "name": "Grevas Bélicas",
+    "categories": [
+      "Botas"
+    ],
+    "is_boot": true,
+    "price": 2200,
+    "image_path": "127099/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127098",
+    "name": "Passos Imortais",
+    "categories": [
+      "Botas"
+    ],
+    "is_boot": true,
+    "price": 2000,
+    "image_path": "127098/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127097",
+    "name": "Aurora e Crepúsculo",
+    "categories": [
+      "Mágico"
+    ],
+    "is_boot": false,
+    "price": 3100,
+    "image_path": "127097/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127096",
+    "name": "Explocinturão Hextec",
+    "categories": [
+      "Mágico"
+    ],
+    "is_boot": false,
+    "price": 2700,
+    "image_path": "127096/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127095",
+    "name": "Redenção",
+    "categories": [
+      "Mágico",
+      "Suporte"
+    ],
+    "is_boot": false,
+    "price": 2600,
+    "image_path": "127095/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127094",
+    "name": "Ampulheta de Zhonya",
+    "categories": [
+      "Mágico",
+      "Defesa"
+    ],
+    "is_boot": false,
+    "price": 3300,
+    "image_path": "127094/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127091",
+    "name": "Força do Vendaval",
+    "categories": [
+      "Atirador",
+      "Físico"
+    ],
+    "is_boot": false,
+    "price": 3100,
+    "image_path": "127091/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127090",
+    "name": "Quebrapassos",
+    "categories": [
+      "Lutador",
+      "Físico"
+    ],
+    "is_boot": false,
+    "price": 3100,
+    "image_path": "127090/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127089",
+    "name": "Hemodrenário",
+    "categories": [
+      "Lutador",
+      "Físico"
+    ],
+    "is_boot": false,
+    "price": 3100,
+    "image_path": "127089/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127088",
+    "name": "Cimitarra Mercurial",
+    "categories": [
+      "Lutador",
+      "Assassino",
+      "Atirador",
+      "Físico"
+    ],
+    "is_boot": false,
+    "price": 3100,
+    "image_path": "127088/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127087",
+    "name": "Bandana de Mercúrio",
+    "categories": [
+      "Lutador",
+      "Assassino",
+      "Atirador",
+      "Defesa",
+      "Físico"
+    ],
+    "is_boot": false,
+    "price": 1100,
+    "image_path": "127087/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127086",
+    "name": "Resplendor Vazio",
+    "categories": [
+      "Defesa"
+    ],
+    "is_boot": false,
+    "price": 2800,
+    "image_path": "127086/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127085",
+    "name": "Lâmina da Fúria de Guinsoo",
+    "categories": [
+      "Atirador",
+      "Mágico",
+      "Físico"
+    ],
+    "is_boot": false,
+    "price": 3100,
+    "image_path": "127085/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127084",
+    "name": "Juramento do Cavaleiro",
+    "categories": [
+      "Defesa",
+      "Suporte"
+    ],
+    "is_boot": false,
+    "price": 2600,
+    "image_path": "127084/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127083",
+    "name": "Desespero Eterno",
+    "categories": [
+      "Defesa"
+    ],
+    "is_boot": false,
+    "price": 3000,
+    "image_path": "127083/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127082",
+    "name": "Armadura Sangrenta do Suserano",
+    "categories": [
+      "Lutador",
+      "Defesa",
+      "Físico"
+    ],
+    "is_boot": false,
+    "price": 3200,
+    "image_path": "127082/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127081",
+    "name": "Hexoplaca Experimental",
+    "categories": [
+      "Lutador",
+      "Físico"
+    ],
+    "is_boot": false,
+    "price": 3000,
+    "image_path": "127081/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127080",
+    "name": "Máscara Abissal",
+    "categories": [
+      "Defesa"
+    ],
+    "is_boot": false,
+    "price": 3000,
+    "image_path": "127080/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127079",
+    "name": "Mata-Cráquens",
+    "categories": [
+      "Atirador",
+      "Físico"
+    ],
+    "is_boot": false,
+    "price": 2800,
+    "image_path": "127079/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127078",
+    "name": "Virtude Radiante",
+    "categories": [
+      "Defesa",
+      "Suporte"
+    ],
+    "is_boot": false,
+    "price": 2850,
+    "image_path": "127078/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127075",
+    "name": "Escamas Emergentes",
+    "categories": [
+      "Tier Médio"
+    ],
+    "is_boot": false,
+    "price": 1300,
+    "image_path": "127075/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127071",
+    "name": "Anel da Revelação",
+    "categories": [
+      "Tier Base"
+    ],
+    "is_boot": false,
+    "price": 300,
+    "image_path": "127071/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127070",
+    "name": "Luvas da Pancadaria",
+    "categories": [
+      "Tier Base"
+    ],
+    "is_boot": false,
+    "price": 500,
+    "image_path": "127070/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127069",
+    "name": "Punho de Jaurim",
+    "categories": [
+      "Tier Médio"
+    ],
+    "is_boot": false,
+    "price": 1200,
+    "image_path": "127069/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127068",
+    "name": "Ferrão",
+    "categories": [
+      "Tier Médio"
+    ],
+    "is_boot": false,
+    "price": 1200,
+    "image_path": "127068/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127067",
+    "name": "Garra de Na'Shor",
+    "categories": [
+      "Tier Médio"
+    ],
+    "is_boot": false,
+    "price": 800,
+    "image_path": "127067/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127066",
+    "name": "Aljava Vespertina",
+    "categories": [
+      "Tier Médio"
+    ],
+    "is_boot": false,
+    "price": 1300,
+    "image_path": "127066/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127065",
+    "name": "Estilhaço de Kircheis",
+    "categories": [
+      "Tier Médio"
+    ],
+    "is_boot": false,
+    "price": 800,
+    "image_path": "127065/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127063",
+    "name": "Crepúsculo de Draktharr",
+    "categories": [
+      "Assassino",
+      "Físico"
+    ],
+    "is_boot": false,
+    "price": 3000,
+    "image_path": "127063/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127062",
+    "name": "Rancor de Serylda",
+    "categories": [
+      "Lutador",
+      "Assassino",
+      "Físico"
+    ],
+    "is_boot": false,
+    "price": 3300,
+    "image_path": "127062/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127058",
+    "name": "Eco Harmônico",
+    "categories": [
+      "Suporte"
+    ],
+    "is_boot": false,
+    "price": 2500,
+    "image_path": "127058/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127057",
+    "name": "Égide de Fogo Solar",
+    "categories": [
+      "Defesa"
+    ],
+    "is_boot": false,
+    "price": 2900,
+    "image_path": "127057/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127054",
+    "name": "Furacão de Runaan",
+    "categories": [
+      "Atirador",
+      "Físico"
+    ],
+    "is_boot": false,
+    "price": 2900,
+    "image_path": "127054/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127053",
+    "name": "Orbe do Infinito",
+    "categories": [
+      "Mágico"
+    ],
+    "is_boot": false,
+    "price": 3100,
+    "image_path": "127053/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127052",
+    "name": "Dança da Morte",
+    "categories": [
+      "Lutador",
+      "Defesa",
+      "Físico"
+    ],
+    "is_boot": false,
+    "price": 3200,
+    "image_path": "127052/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127051",
+    "name": "Colhedor de Essência",
+    "categories": [
+      "Atirador",
+      "Físico"
+    ],
+    "is_boot": false,
+    "price": 3000,
+    "image_path": "127051/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127049",
+    "name": "Manto da Aurora",
+    "categories": [
+      "Defesa",
+      "Suporte"
+    ],
+    "is_boot": false,
+    "price": 2700,
+    "image_path": "127049/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127040",
+    "name": "Eco de Luden",
+    "categories": [
+      "Mágico"
+    ],
+    "is_boot": false,
+    "price": 2800,
+    "image_path": "127040/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127039",
+    "name": "Manto da Meia-noite",
+    "categories": [
+      "Defesa"
+    ],
+    "is_boot": false,
+    "price": 2900,
+    "image_path": "127039/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127038",
+    "name": "Faísca Cintilante",
+    "categories": [
+      "Tier Base"
+    ],
+    "is_boot": false,
+    "price": 500,
+    "image_path": "127038/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127037",
+    "name": "Coroa Calcinante",
+    "categories": [
+      "Defesa"
+    ],
+    "is_boot": false,
+    "price": 2700,
+    "image_path": "127037/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127036",
+    "name": "Armadilha de Yordle",
+    "categories": [
+      "Defesa",
+      "Suporte"
+    ],
+    "is_boot": false,
+    "price": 2400,
+    "image_path": "127036/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127035",
+    "name": "Rookern Lamúrico",
+    "categories": [
+      "Defesa"
+    ],
+    "is_boot": false,
+    "price": 2800,
+    "image_path": "127035/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127032",
+    "name": "Eclipse",
+    "categories": [
+      "Lutador",
+      "Físico"
+    ],
+    "is_boot": false,
+    "price": 3000,
+    "image_path": "127032/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127028",
+    "name": "Medalhão dos Solari de Ferro",
+    "categories": [
+      "Suporte"
+    ],
+    "is_boot": false,
+    "price": 2600,
+    "image_path": "127028/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127023",
+    "name": "Tridente da Oceânide",
+    "categories": [
+      "Mágico",
+      "Suporte"
+    ],
+    "is_boot": false,
+    "price": 2600,
+    "image_path": "127023/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127022",
+    "name": "Adagas Rápidas Navori",
+    "categories": [
+      "Atirador",
+      "Físico"
+    ],
+    "is_boot": false,
+    "price": 2650,
+    "image_path": "127022/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127021",
+    "name": "Ladrão de Almas Desperto",
+    "categories": [
+      "Mágico"
+    ],
+    "is_boot": false,
+    "price": 3000,
+    "image_path": "127021/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127020",
+    "name": "Ruptor Divino",
+    "categories": [
+      "Lutador",
+      "Físico"
+    ],
+    "is_boot": false,
+    "price": 3400,
+    "image_path": "127020/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127018",
+    "name": "Botas do Dinamismo",
+    "categories": [
+      "Botas"
+    ],
+    "is_boot": true,
+    "price": 1200,
+    "image_path": "127018/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127017",
+    "name": "Grevas Vorazes",
+    "categories": [
+      "Botas"
+    ],
+    "is_boot": true,
+    "price": 1000,
+    "image_path": "127017/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127014",
+    "name": "Duplaguarda de Amaranto",
+    "categories": [
+      "Defesa"
+    ],
+    "is_boot": false,
+    "price": 3200,
+    "image_path": "127014/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "127009",
+    "name": "Botas de Mana",
+    "categories": [
+      "Botas"
+    ],
+    "is_boot": true,
+    "price": 1200,
+    "image_path": "127009/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "7018",
+    "name": "Força da Trindade",
+    "categories": [
+      "Lutador",
+      "Atirador",
+      "Físico"
+    ],
+    "is_boot": false,
+    "price": 3333,
+    "image_path": "7018/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "7012",
+    "name": "Tormento de Liandry",
+    "categories": [
+      "Mágico"
+    ],
+    "is_boot": false,
+    "price": 3000,
+    "image_path": "7012/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "6695",
+    "name": "Presa da Serpente",
+    "categories": [
+      "Assassino",
+      "Físico"
+    ],
+    "is_boot": false,
+    "price": 2800,
+    "image_path": "6695/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "6676",
+    "name": "A Coletora",
+    "categories": [
+      "Assassino",
+      "Atirador",
+      "Físico"
+    ],
+    "is_boot": false,
+    "price": 3000,
+    "image_path": "6676/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "6673",
+    "name": "Arco-escudo Imortal",
+    "categories": [
+      "Atirador",
+      "Físico"
+    ],
+    "is_boot": false,
+    "price": 3000,
+    "image_path": "6673/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "6662",
+    "name": "Manopla dos Glacinatas",
+    "categories": [
+      "Defesa"
+    ],
+    "is_boot": false,
+    "price": 3001,
+    "image_path": "6662/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "6660",
+    "name": "Brasa de Bami",
+    "categories": [
+      "Tier Médio"
+    ],
+    "is_boot": false,
+    "price": 1200,
+    "image_path": "6660/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "6657",
+    "name": "Bastão das Eras",
+    "categories": [
+      "Mágico"
+    ],
+    "is_boot": false,
+    "price": 2700,
+    "image_path": "6657/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "6616",
+    "name": "Cajado Aquafluxo",
+    "categories": [
+      "Suporte"
+    ],
+    "is_boot": false,
+    "price": 2400,
+    "image_path": "6616/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "6610",
+    "name": "Céu Dividido",
+    "categories": [
+      "Lutador",
+      "Físico"
+    ],
+    "is_boot": false,
+    "price": 2900,
+    "image_path": "6610/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "6609",
+    "name": "Serrespada Quimiopunk",
+    "categories": [
+      "Lutador",
+      "Físico"
+    ],
+    "is_boot": false,
+    "price": 2800,
+    "image_path": "6609/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "4646",
+    "name": "Ápice da Tempestade",
+    "categories": [
+      "Mágico"
+    ],
+    "is_boot": false,
+    "price": 2800,
+    "image_path": "4646/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "4633",
+    "name": "Criafendas",
+    "categories": [
+      "Mágico"
+    ],
+    "is_boot": false,
+    "price": 3100,
+    "image_path": "4633/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "4629",
+    "name": "Ímpeto Cósmico",
+    "categories": [
+      "Mágico"
+    ],
+    "is_boot": false,
+    "price": 3000,
+    "image_path": "4629/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "4628",
+    "name": "Foco do Horizonte",
+    "categories": [
+      "Mágico"
+    ],
+    "is_boot": false,
+    "price": 2700,
+    "image_path": "4628/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "4401",
+    "name": "Força da Natureza",
+    "categories": [
+      "Defesa"
+    ],
+    "is_boot": false,
+    "price": 2750,
+    "image_path": "4401/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "4010",
+    "name": "Maldição Sanguinária",
+    "categories": [
+      "Mágico"
+    ],
+    "is_boot": false,
+    "price": 2900,
+    "image_path": "4010/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "4005",
+    "name": "Mandato Imperial",
+    "categories": [
+      "Suporte"
+    ],
+    "is_boot": false,
+    "price": 2500,
+    "image_path": "4005/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3916",
+    "name": "Orbe do Oblívio",
+    "categories": [
+      "Tier Médio"
+    ],
+    "is_boot": false,
+    "price": 900,
+    "image_path": "3916/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3862",
+    "name": "Foice Espectral",
+    "categories": [
+      "Tier Base"
+    ],
+    "is_boot": false,
+    "price": 500,
+    "image_path": "3862/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3858",
+    "name": "Escudo Relicário",
+    "categories": [
+      "Tier Base"
+    ],
+    "is_boot": false,
+    "price": 500,
+    "image_path": "3858/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3814",
+    "name": "Limiar da Noite",
+    "categories": [
+      "Assassino",
+      "Físico"
+    ],
+    "is_boot": false,
+    "price": 3000,
+    "image_path": "3814/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3803",
+    "name": "Catalisador das Eras",
+    "categories": [
+      "Tier Médio"
+    ],
+    "is_boot": false,
+    "price": 1100,
+    "image_path": "3803/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3802",
+    "name": "Capítulo Perdido",
+    "categories": [
+      "Tier Médio"
+    ],
+    "is_boot": false,
+    "price": 1200,
+    "image_path": "3802/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3748",
+    "name": "Hidra Titânica",
+    "categories": [
+      "Lutador",
+      "Defesa",
+      "Físico"
+    ],
+    "is_boot": false,
+    "price": 3000,
+    "image_path": "3748/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3742",
+    "name": "Couraça do Defunto",
+    "categories": [
+      "Defesa"
+    ],
+    "is_boot": false,
+    "price": 2800,
+    "image_path": "3742/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3504",
+    "name": "Turíbulo Ardente",
+    "categories": [
+      "Suporte"
+    ],
+    "is_boot": false,
+    "price": 2700,
+    "image_path": "3504/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3302",
+    "name": "Terminus",
+    "categories": [
+      "Atirador",
+      "Físico"
+    ],
+    "is_boot": false,
+    "price": 3300,
+    "image_path": "3302/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3211",
+    "name": "Capuz do Espectro",
+    "categories": [
+      "Tier Médio"
+    ],
+    "is_boot": false,
+    "price": 1100,
+    "image_path": "3211/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3181",
+    "name": "Quebracascos",
+    "categories": [
+      "Lutador",
+      "Físico"
+    ],
+    "is_boot": false,
+    "price": 3100,
+    "image_path": "3181/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3165",
+    "name": "Morellonomicon",
+    "categories": [
+      "Mágico",
+      "Suporte"
+    ],
+    "is_boot": false,
+    "price": 2650,
+    "image_path": "3165/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3161",
+    "name": "Lança de Shojin",
+    "categories": [
+      "Lutador",
+      "Físico"
+    ],
+    "is_boot": false,
+    "price": 3100,
+    "image_path": "3161/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3158",
+    "name": "Botas Ionianas da Lucidez",
+    "categories": [
+      "Botas"
+    ],
+    "is_boot": true,
+    "price": 1000,
+    "image_path": "3158/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3156",
+    "name": "Mandíbula de Malmortius",
+    "categories": [
+      "Lutador",
+      "Assassino",
+      "Atirador",
+      "Físico"
+    ],
+    "is_boot": false,
+    "price": 3000,
+    "image_path": "3156/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3155",
+    "name": "Hexdrinker",
+    "categories": [
+      "Tier Médio"
+    ],
+    "is_boot": false,
+    "price": 1200,
+    "image_path": "3155/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3153",
+    "name": "Espada do Rei Destruído",
+    "categories": [
+      "Lutador",
+      "Atirador",
+      "Físico"
+    ],
+    "is_boot": false,
+    "price": 3100,
+    "image_path": "3153/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3147",
+    "name": "Máscara Assustadora",
+    "categories": [
+      "Tier Médio"
+    ],
+    "is_boot": false,
+    "price": 1300,
+    "image_path": "3147/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3145",
+    "name": "Alternador Hextec",
+    "categories": [
+      "Tier Médio"
+    ],
+    "is_boot": false,
+    "price": 1100,
+    "image_path": "3145/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3143",
+    "name": "Presságio de Randuin",
+    "categories": [
+      "Defesa"
+    ],
+    "is_boot": false,
+    "price": 2800,
+    "image_path": "3143/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3142",
+    "name": "Lâmina Fantasma de Youmuu",
+    "categories": [
+      "Assassino",
+      "Físico"
+    ],
+    "is_boot": false,
+    "price": 3000,
+    "image_path": "3142/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3137",
+    "name": "Criptoflora",
+    "categories": [
+      "Mágico",
+      "Suporte"
+    ],
+    "is_boot": false,
+    "price": 3000,
+    "image_path": "3137/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3135",
+    "name": "Cajado do Vazio",
+    "categories": [
+      "Mágico"
+    ],
+    "is_boot": false,
+    "price": 3000,
+    "image_path": "3135/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3134",
+    "name": "Punhal Serrilhado",
+    "categories": [
+      "Tier Médio"
+    ],
+    "is_boot": false,
+    "price": 1000,
+    "image_path": "3134/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3133",
+    "name": "Martelo de Guerra de Caulfield",
+    "categories": [
+      "Tier Médio"
+    ],
+    "is_boot": false,
+    "price": 1200,
+    "image_path": "3133/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3123",
+    "name": "Chamado do Carrasco",
+    "categories": [
+      "Tier Médio"
+    ],
+    "is_boot": false,
+    "price": 800,
+    "image_path": "3123/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3119",
+    "name": "Aproximação Invernal",
+    "categories": [
+      "Defesa"
+    ],
+    "is_boot": false,
+    "price": 2600,
+    "image_path": "3119/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3118",
+    "name": "Malevolência",
+    "categories": [
+      "Mágico"
+    ],
+    "is_boot": false,
+    "price": 2700,
+    "image_path": "3118/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3116",
+    "name": "Cetro de Cristal de Rylai",
+    "categories": [
+      "Mágico"
+    ],
+    "is_boot": false,
+    "price": 2700,
+    "image_path": "3116/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3115",
+    "name": "Dente de Na'Shor",
+    "categories": [
+      "Atirador",
+      "Mágico",
+      "Físico"
+    ],
+    "is_boot": false,
+    "price": 2900,
+    "image_path": "3115/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3114",
+    "name": "Ídolo Proibido",
+    "categories": [
+      "Tier Médio"
+    ],
+    "is_boot": false,
+    "price": 900,
+    "image_path": "3114/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3113",
+    "name": "Cintilação Etérea",
+    "categories": [
+      "Tier Médio"
+    ],
+    "is_boot": false,
+    "price": 950,
+    "image_path": "3113/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3111",
+    "name": "Passos de Mercúrio",
+    "categories": [
+      "Botas"
+    ],
+    "is_boot": true,
+    "price": 1200,
+    "image_path": "3111/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3110",
+    "name": "Coração Congelado",
+    "categories": [
+      "Defesa",
+      "Suporte"
+    ],
+    "is_boot": false,
+    "price": 2550,
+    "image_path": "3110/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3108",
+    "name": "Códex Demoníaco",
+    "categories": [
+      "Tier Médio"
+    ],
+    "is_boot": false,
+    "price": 900,
+    "image_path": "3108/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3102",
+    "name": "Véu da Banshee",
+    "categories": [
+      "Mágico",
+      "Defesa"
+    ],
+    "is_boot": false,
+    "price": 3000,
+    "image_path": "3102/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3100",
+    "name": "Perdição de Lich",
+    "categories": [
+      "Mágico"
+    ],
+    "is_boot": false,
+    "price": 2800,
+    "image_path": "3100/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3095",
+    "name": "Chuva de Canivete",
+    "categories": [
+      "Atirador",
+      "Físico"
+    ],
+    "is_boot": false,
+    "price": 3000,
+    "image_path": "3095/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3094",
+    "name": "Canhão Fumegante",
+    "categories": [
+      "Atirador",
+      "Físico"
+    ],
+    "is_boot": false,
+    "price": 2650,
+    "image_path": "3094/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3091",
+    "name": "Limite da Razão",
+    "categories": [
+      "Atirador",
+      "Físico"
+    ],
+    "is_boot": false,
+    "price": 2800,
+    "image_path": "3091/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3089",
+    "name": "Capuz da Morte de Rabadon",
+    "categories": [
+      "Mágico"
+    ],
+    "is_boot": false,
+    "price": 3400,
+    "image_path": "3089/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3086",
+    "name": "Zelo",
+    "categories": [
+      "Tier Médio"
+    ],
+    "is_boot": false,
+    "price": 1400,
+    "image_path": "3086/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3084",
+    "name": "Coração de Aço",
+    "categories": [
+      "Defesa"
+    ],
+    "is_boot": false,
+    "price": 2800,
+    "image_path": "3084/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3083",
+    "name": "Armadura de Warmog",
+    "categories": [
+      "Defesa"
+    ],
+    "is_boot": false,
+    "price": 2850,
+    "image_path": "3083/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3082",
+    "name": "Carapaça do Vigia",
+    "categories": [
+      "Tier Médio"
+    ],
+    "is_boot": false,
+    "price": 1050,
+    "image_path": "3082/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3076",
+    "name": "Colete Espinhoso",
+    "categories": [
+      "Tier Médio"
+    ],
+    "is_boot": false,
+    "price": 1000,
+    "image_path": "3076/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3075",
+    "name": "Armadura de Espinhos",
+    "categories": [
+      "Defesa"
+    ],
+    "is_boot": false,
+    "price": 2700,
+    "image_path": "3075/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3072",
+    "name": "Sedenta por Sangue",
+    "categories": [
+      "Lutador",
+      "Atirador",
+      "Físico"
+    ],
+    "is_boot": false,
+    "price": 3000,
+    "image_path": "3072/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3071",
+    "name": "Cutelo Negro",
+    "categories": [
+      "Lutador",
+      "Físico"
+    ],
+    "is_boot": false,
+    "price": 3000,
+    "image_path": "3071/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3070",
+    "name": "Lágrima da Deusa",
+    "categories": [
+      "Tier Base"
+    ],
+    "is_boot": false,
+    "price": 400,
+    "image_path": "3070/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3067",
+    "name": "Gema Ardente",
+    "categories": [
+      "Tier Médio"
+    ],
+    "is_boot": false,
+    "price": 1000,
+    "image_path": "3067/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3066",
+    "name": "Couraça Lunar Alada",
+    "categories": [
+      "Tier Médio"
+    ],
+    "is_boot": false,
+    "price": 900,
+    "image_path": "3066/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3057",
+    "name": "Fulgor",
+    "categories": [
+      "Tier Médio"
+    ],
+    "is_boot": false,
+    "price": 800,
+    "image_path": "3057/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3053",
+    "name": "Sinal de Sterak",
+    "categories": [
+      "Lutador",
+      "Defesa",
+      "Físico"
+    ],
+    "is_boot": false,
+    "price": 3200,
+    "image_path": "3053/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3050",
+    "name": "Convergência de Zeke",
+    "categories": [
+      "Defesa",
+      "Suporte"
+    ],
+    "is_boot": false,
+    "price": 2400,
+    "image_path": "3050/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3047",
+    "name": "Botas Galvanizadas de Aço",
+    "categories": [
+      "Botas"
+    ],
+    "is_boot": true,
+    "price": 1200,
+    "image_path": "3047/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3046",
+    "name": "Dançarina Fantasma",
+    "categories": [
+      "Atirador",
+      "Físico"
+    ],
+    "is_boot": false,
+    "price": 2650,
+    "image_path": "3046/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3044",
+    "name": "Fago",
+    "categories": [
+      "Tier Médio"
+    ],
+    "is_boot": false,
+    "price": 1000,
+    "image_path": "3044/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3041",
+    "name": "Ladrão de Almas de Mejai",
+    "categories": [
+      "Tier Médio"
+    ],
+    "is_boot": false,
+    "price": 1800,
+    "image_path": "3041/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3036",
+    "name": "Lembranças do Lorde Dominik",
+    "categories": [
+      "Atirador",
+      "Físico"
+    ],
+    "is_boot": false,
+    "price": 3300,
+    "image_path": "3036/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3035",
+    "name": "Último Sussurro",
+    "categories": [
+      "Tier Médio"
+    ],
+    "is_boot": false,
+    "price": 800,
+    "image_path": "3035/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3033",
+    "name": "Lembrete Mortal",
+    "categories": [
+      "Atirador",
+      "Físico"
+    ],
+    "is_boot": false,
+    "price": 3300,
+    "image_path": "3033/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3031",
+    "name": "Gume do Infinito",
+    "categories": [
+      "Atirador",
+      "Físico"
+    ],
+    "is_boot": false,
+    "price": 3400,
+    "image_path": "3031/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3026",
+    "name": "Anjo Guardião",
+    "categories": [
+      "Lutador",
+      "Assassino",
+      "Atirador",
+      "Defesa",
+      "Físico"
+    ],
+    "is_boot": false,
+    "price": 3200,
+    "image_path": "3026/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3024",
+    "name": "Proteção Glacial",
+    "categories": [
+      "Tier Médio"
+    ],
+    "is_boot": false,
+    "price": 1000,
+    "image_path": "3024/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3006",
+    "name": "Grevas do Berserker",
+    "categories": [
+      "Botas"
+    ],
+    "is_boot": true,
+    "price": 1200,
+    "image_path": "3006/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3004",
+    "name": "Manamune",
+    "categories": [
+      "Lutador",
+      "Assassino",
+      "Atirador",
+      "Físico"
+    ],
+    "is_boot": false,
+    "price": 2900,
+    "image_path": "3004/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "3003",
+    "name": "Cajado do Arcanjo",
+    "categories": [
+      "Mágico"
+    ],
+    "is_boot": false,
+    "price": 3000,
+    "image_path": "3003/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "2503",
+    "name": "Tocha de Chamas Negras",
+    "categories": [
+      "Mágico"
+    ],
+    "is_boot": false,
+    "price": 2800,
+    "image_path": "2503/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "2420",
+    "name": "Armaguarda da Caçadora",
+    "categories": [
+      "Tier Médio"
+    ],
+    "is_boot": false,
+    "price": 1400,
+    "image_path": "2420/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "2065",
+    "name": "Hino Bélico de Shurelya",
+    "categories": [
+      "Suporte"
+    ],
+    "is_boot": false,
+    "price": 2600,
+    "image_path": "2065/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "1057",
+    "name": "Capa Negatron",
+    "categories": [
+      "Tier Médio"
+    ],
+    "is_boot": false,
+    "price": 900,
+    "image_path": "1057/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "1053",
+    "name": "Cetro Vampírico",
+    "categories": [
+      "Tier Médio"
+    ],
+    "is_boot": false,
+    "price": 1200,
+    "image_path": "1053/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "1052",
+    "name": "Tomo Amplificador",
+    "categories": [
+      "Tier Base"
+    ],
+    "is_boot": false,
+    "price": 500,
+    "image_path": "1052/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "1043",
+    "name": "Arco Recurvo",
+    "categories": [
+      "Tier Médio"
+    ],
+    "is_boot": false,
+    "price": 900,
+    "image_path": "1043/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "1042",
+    "name": "Adaga",
+    "categories": [
+      "Tier Base"
+    ],
+    "is_boot": false,
+    "price": 400,
+    "image_path": "1042/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "1038",
+    "name": "Espada G. p. C.",
+    "categories": [
+      "Tier Médio"
+    ],
+    "is_boot": false,
+    "price": 1500,
+    "image_path": "1038/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "1036",
+    "name": "Espada Longa",
+    "categories": [
+      "Tier Base"
+    ],
+    "is_boot": false,
+    "price": 500,
+    "image_path": "1036/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "1033",
+    "name": "Manto Anula-Magia",
+    "categories": [
+      "Tier Base"
+    ],
+    "is_boot": false,
+    "price": 500,
+    "image_path": "1033/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "1031",
+    "name": "Cota de Malha",
+    "categories": [
+      "Tier Médio"
+    ],
+    "is_boot": false,
+    "price": 900,
+    "image_path": "1031/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "1029",
+    "name": "Couraça de Pano",
+    "categories": [
+      "Tier Base"
+    ],
+    "is_boot": false,
+    "price": 500,
+    "image_path": "1029/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "1028",
+    "name": "Cristal de Rubi",
+    "categories": [
+      "Tier Base"
+    ],
+    "is_boot": false,
+    "price": 500,
+    "image_path": "1028/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "1026",
+    "name": "Varinha Explosiva",
+    "categories": [
+      "Tier Médio"
+    ],
+    "is_boot": false,
+    "price": 800,
+    "image_path": "1026/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "1018",
+    "name": "Capa da Agilidade",
+    "categories": [
+      "Tier Médio"
+    ],
+    "is_boot": false,
+    "price": 1000,
+    "image_path": "1018/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "1011",
+    "name": "Cinto do Gigante",
+    "categories": [
+      "Tier Médio"
+    ],
+    "is_boot": false,
+    "price": 1000,
+    "image_path": "1011/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  },
+  {
+    "id": "1001",
+    "name": "Botas da Velocidade",
+    "categories": [
+      "Tier Base"
+    ],
+    "is_boot": true,
+    "price": 500,
+    "image_path": "1001/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png"
+  }
+]
