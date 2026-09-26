@@ -1,7 +1,7 @@
 export const ROUTES = ['TOP', 'JUNGLE', 'MID', 'ADC', 'SUPPORT'];
 export const normalize = text => text.normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]/gi, '').toLowerCase();
 export function validate(data) {
- if (!Array.isArray(data) || data.length !== 141) throw new Error('A base deve conter 141 campeões.');
+ if (!Array.isArray(data) || data.length === 0) throw new Error('A base deve conter campeões.');
  const seen = new Set();
  return data.map(c => {
   if (!c || typeof c.nome !== 'string' || !c.nome.trim() || seen.has(normalize(c.nome)) || !Array.isArray(c.rotas) || !c.rotas.length || c.rotas.some(r => !ROUTES.includes(r)) || new Set(c.rotas).size !== c.rotas.length) throw new Error('Cadastro de campeões inválido.');

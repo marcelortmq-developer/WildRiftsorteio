@@ -1,4 +1,4 @@
-import { ROUTES, validate } from './core.js';
+import { ROUTES, validate, normalize } from './core.js';
 export const championId = c => new URL(c.link).pathname.split('/').filter(Boolean).at(-1);
 export function validRoutes(routes) {
  return Array.isArray(routes) && routes.length > 0 && routes.length <= 5 && new Set(routes).size === routes.length && routes.every(r => ROUTES.includes(r));
@@ -29,4 +29,10 @@ export async function persistEdit(client, {id,rotas,imagePath,version}) {
  if(error?.code==='23505' || (!error && !data))throw new Error('Este campeão foi alterado em outra sessão. Feche e abra a ficha para carregar a versão atual antes de salvar.');
  if(error)throw new Error(error.code==='42501'?'Sua conta não tem permissão de administrador.':'Não foi possível salvar. Verifique a conexão e tente novamente.');
  return data;
+}
+
+export function mergeCatalog(base, additions, publicImageUrl){
+ const result=new Map(base.map(c=>[championId(c),c])),names=new Set(base.map(c=>normalize(c.nome)));
+ for(const c of additions){if(c.champion_id!==championId(c)||!validRoutes(c.rotas)||!new RegExp(`^${c.champion_id}/[a-f0-9-]{36}\\.webp$`).test(c.image_path))throw Error('Novo campeão inválido.');if(!result.has(c.champion_id)&&!names.has(normalize(c.nome))){result.set(c.champion_id,{nome:c.nome,rotas:c.rotas,link:c.link,imagem:publicImageUrl(c.image_path)});names.add(normalize(c.nome));}}
+ return validate([...result.values()].sort((a,b)=>a.nome.localeCompare(b.nome,'pt-BR')));
 }

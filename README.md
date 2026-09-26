@@ -86,3 +86,17 @@ Fonte: https://wildlegends.net/itens. Em 25/09/2026 foram extraídos automaticam
 - Alterações incompatíveis na estrutura da fonte interrompem o importador para revisão. Não há agendamento automático.
 
 Testes: `npm test` inclui 1.500 sorteios cobrindo Todos e as quatro categorias, exclusão de botas dos cinco slots, deduplicação, pesquisa e restrições RLS. `npm run build` mantém o fluxo de publicação existente.
+
+## Novos campeões automaticamente
+
+O Supabase verifica `https://wildriftcore.com/champions/` a cada hora (minuto 17, UTC) usando a Edge Function `wr-sync-champions` e o job `wr-sync-champions-hourly`. Para cada ID novo, lê a ficha, extrai todas as rotas declaradas e copia a imagem WebP para o Storage. O campeão só é registrado após validar a ficha e concluir o upload.
+
+O JSON original de 141 campeões permanece como base; `wr_champion_additions` contém novas entradas e `wr_champion_overrides` mantém prioridade para edições manuais. A sincronização não remove campeões nem sobrescreve rotas ou imagens existentes. O site incorpora novidades ao carregar e na atualização periódica de 30 segundos. Contagens agora são dinâmicas.
+
+- Schema e função de inserção: `supabase/champion-sync.sql`.
+- Agendamento e credencial privada no Vault: `supabase/champion-sync-schedule.sql`.
+- Importador: `supabase/functions/wr-sync-champions/`.
+- Histórico de execuções: tabela privada `wr_champion_sync_runs` (success, added, error).
+- Autenticação: token aleatório privado no Vault; somente seu hash fica em `wr_champion_sync_config`, acessível apenas ao servidor. A Edge Function exige esse token; nenhum segredo fica no frontend ou no GitHub.
+- Falhas na fonte, fichas sem rotas/imagens válidas ou crescimento superior a dez campeões numa execução interrompem a importação para revisão; a lista anterior permanece disponível. O agendamento tenta novamente na próxima hora.
+- A detecção depende da inclusão do campeão no catálogo do Wild Rift Core; não acompanha anúncios da Riot diretamente.

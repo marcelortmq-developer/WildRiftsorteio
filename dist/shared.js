@@ -1,5 +1,5 @@
 import {config} from './config.js';
-import {mergeOverrides, persistEdit, validateImageFile} from './shared-core.js';
+import {mergeOverrides, mergeCatalog, persistEdit, validateImageFile} from './shared-core.js';
 export const configured=Boolean(config.supabaseUrl && config.supabasePublishableKey);
 let clientPromise;
 export async function getClient(){
@@ -10,9 +10,11 @@ export async function getClient(){
 export async function loadShared(base){
  if(!configured)return mergeOverrides(base,[],()=> '');
  const client=await getClient();
- const {data,error}=await client.from('wr_champion_overrides').select('champion_id,rotas,image_path,version');
- if(error)throw new Error('Não foi possível atualizar os campeões. Verifique sua conexão.');
- return mergeOverrides(base,data,path=>client.storage.from('wr-champion-images').getPublicUrl(path).data.publicUrl);
+ const [overrides,additions]=await Promise.all([client.from('wr_champion_overrides').select('champion_id,rotas,image_path,version'),client.from('wr_champion_additions').select('champion_id,nome,rotas,link,image_path')]);
+ const {data,error}=overrides;
+ if(error||additions.error)throw new Error('Não foi possível atualizar os campeões. Verifique sua conexão.');
+ const imageUrl=path=>client.storage.from('wr-champion-images').getPublicUrl(path).data.publicUrl;
+ return mergeOverrides(mergeCatalog(base,additions.data,imageUrl),data,imageUrl);
 }
 export async function isAdmin(){
  if(!configured)return false;
